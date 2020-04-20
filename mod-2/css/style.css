@@ -51,7 +51,7 @@ section{
 		width: 25%;
 		float: left;	
 	}
-|
+}
   @media (max-width: 767px) {
 .col-sm-12{
 	width: 100%;
